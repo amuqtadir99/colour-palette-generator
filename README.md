@@ -1,5 +1,8 @@
 # 🎨 Colour Palette Generator
 
+## 🌐 Live Preview
+🔗 **Try it here:** [Colour Palette Generator](https://amuqtadir99.github.io/colour-palette-generator/)
+
 ## 📌 Overview
 The **Colour Palette Generator** is a simple web-based tool that generates beautiful colour palettes with **HEX** and **HSL** values. Users can generate a new palette, copy colour codes, and download the colour palette as a structured text file.
 
@@ -56,5 +59,5 @@ This project is **open-source** and free to use under the **MIT License**.
 
 ---
 💡 **Developed with 💙 by Abdul Muqtadir**  
-🚀 **GitHub Repository:** https://github.com/amuqtadir99/colour-palette-generator
+🚀 **GitHub Repository:** [GitHub Link](https://github.com/amuqtadir99/colour-palette-generator)
 
